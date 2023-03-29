@@ -19,7 +19,7 @@ If you need more functionality than this, it should be fairly easy to add it. Pu
 
 ### Usage
 
-Download a release `.zip`, unpack it, and load the `retroarch_api_faker.lua` in BizHawk:
+[Download](https://github.com/wbsch/bizhawk_retroarch_api_bridge/releases) a release `.zip`, unpack it, and load the `retroarch_api_faker.lua` in BizHawk:
 
 ```
 "Tools" -> "Lua Console" -> "Script" -> "Open Script" -> "retroarch_api_faker.lua"
